@@ -1,13 +1,13 @@
 # Tourniquet Holder
 
-## V1.2
+## V1.2.1
 
 This device is a quick-release mount for a tourniquet.
 
 ## Mounting
 
 Attach the smaller side of the mount to a wall with adhesive.
-![alt text](/images/Screenshot%202023-02-13%20201123.png)
+![alt text](/Tourniquet%20holder/images/Screenshot%202023-02-13%20201123.png)
 
 ## Printing instructions
 
@@ -18,7 +18,7 @@ Infill: 10-50%
 Supports: If you want. Some printers can print the small overhangs.
 
 Printing arrangement:
-![alt text](/images/Screenshot_20230213_202118.png)
+![alt text](/Tourniquet%20holder/images/Screenshot_20230213_202118.png)
 
 ## DISCLAIMER
 
